@@ -4,6 +4,7 @@
   "description": "A Website for a Photography Portfolio",
   "main": "index.js",
   "scripts": {
+    "build": "npm run tailwind && cp src/index.html dist/index.html"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
