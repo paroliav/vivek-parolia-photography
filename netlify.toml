@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://vivekparolia.ink/*"
+  to = "https://vivekparolia.art/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://vivekparolia.ink/*"
+  to = "https://vivekparolia.art/:splat"
+  status = 301
+  force = true
